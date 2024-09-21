@@ -7,7 +7,7 @@ Mechanical Engineering, B.Tech
 ### Work Experience
 #### Full-time
 **Data Analyst @ Pantone (X-rite Pantone, Veralto)**
-<img src="/assets/images/pantone-color-of-the-year-2023.jpeg" alt="Pantone Logo" style="height: 1em; vertical-align: middle;">
+<img src="/assets/images/pantone-color-of-the-year-2023.jpeg" alt="Pantone Logo" style="height: 3em; vertical-align: middle;">
 *Data Engineering:*
 - Engineered and optimized scalable AWS Glue ETL pipelines, automating the ingestion, transformation, and loading of terabyte-scale datasets from RDBMS and NoSQL sources into a centralized S3 data lake, reducing processing latency by 70% and enabling real-time analytics through partitioning, bucketing, and optimized data serialization formats (Parquet, ORC).
 - Architected end-to-end data pipelines for tracking user adoption and feature engagement in Pantone Connect, integrating Google Analytics with user interaction data and session logs, implementing time-series analysis and anomaly detection to improve user experience and increase adoption by 20%.
