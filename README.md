@@ -19,7 +19,7 @@ Mechanical Engineering, B.Tech
 - Automated executive-level Power BI dashboards using complex DAX expressions and SQL queries, providing real-time insights into KPIs, churn, and conversion rates, leveraging star-schema data modeling for efficient reporting and decision-making.
 
 **Strategy Analyst @ MySyara**
-![MySyara Logo](/assets/images/mysyara%20logo.png)
+<img src="/assets/images/mysyara%20logo.png" alt="MySyara Logo" style="height: 5em; vertical-align: middle;">
 - Designed and deployed automated data pipelines using Python and AWS (Lambda, Step Functions) to ingest, process, and store data from multiple sources (RDBMS, APIs), ensuring high availability and data integrity in production environments.
 - Conducted competitor analysis using Python, to make informed pricing & promotion product decisions to boost acquisition.
 - Developed time-series forecasting models to predict user churn and revenue trends, improving customer retention strategies.
@@ -27,13 +27,13 @@ Mechanical Engineering, B.Tech
 
 #### Internship/Co-op
 **Associate Consultant (Co-op) @ Apps Associates**
-![Apps Associates Logo](/assets/images/apps_associates_logo.jpeg)
+<img src="/assets/images/apps_associates_logo.jpeg" alt="Apps Associates Logo" style="height: 5em; vertical-align: middle;">
 - Developed SQL queries embedded in the backend code of Data Skylight, a SaaS data warehousing integration solution, to facilitate data extraction from Oracle ERP and Salesforce into Snowflake, streamlining client reporting processes and accelerating data-driven decision-making.
 - Built interactive data visualization dashboards using React and D3.js, enabling real-time monitoring of model performance and decision-making metrics for internal stakeholders.
 - Developed detailed financial analytics reports in Excel, facilitating rapid, data-driven decision-making by providing executives with clear insights into budgeting, forecasting, & financial performance.
 
 **Data Scientist (Intern) @ Sapience Technology LLC**
-![Sapience Logo](/assets/images/sapience-tech.png)
+<img src="/assets/images/sapience-tech.png" alt="Sapience Logo" style="height: 5em; vertical-align: middle;">
 - Developed predictive models in Python using Scikit-learn and Pandas to forecast customer behavior and optimize feature recommendations, leading to a 15% increase in user engagement and driving data-driven product enhancements.
 - Collected & refined requirements from stakeholders into functional design to build, implement, & deploy BI solutions
 - Conceptualized data warehousing models using ER Diagrams to model data from 10+ sources, including Shopify, Amazon Seller Central, into orders and shipping facts and dimensions for improved reporting and decision-making.
