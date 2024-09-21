@@ -5,6 +5,7 @@ Data Analytics Engineering, MS
 Mechanical Engineering, B.Tech
 
 ### Work Experience
+#### Full-time
 Data Analyst @ Pantone (X-rite Pantone, Veralto)
 - Data Engineering:
 - Engineered and optimized scalable AWS Glue ETL pipelines, automating the ingestion, transformation, and loading of terabyte-scale datasets from RDBMS and NoSQL sources into a centralized S3 data lake, reducing processing latency by 70% and enabling real-time analytics through partitioning, bucketing, and optimized data serialization formats (Parquet, ORC).
@@ -13,6 +14,23 @@ Data Analyst @ Pantone (X-rite Pantone, Veralto)
 - Developed and applied advanced clustering algorithms (k-means, DBSCAN) for unsupervised user segmentation, leveraging principal component analysis (PCA) for dimensionality reduction, leading to a 10% increase in retention through personalized recommendations.
 - Utilized natural language processing (NLP) techniques, such as topic modeling and sentiment analysis, to extract insights from customer feedback, identifying pain points and trends that informed product enhancements, contributing to a 15% improvement in user satisfaction.
 - Automated executive-level Power BI dashboards using complex DAX expressions and SQL queries, providing real-time insights into KPIs, churn, and conversion rates, leveraging star-schema data modeling for efficient reporting and decision-making.
+
+Strategy Analyst @ MySyara
+- Designed and deployed automated data pipelines using Python and AWS (Lambda, Step Functions) to ingest, process, and store data from multiple sources (RDBMS, APIs), ensuring high availability and data integrity in production environments.
+- Conducted competitor analysis using Python, to make informed pricing & promotion product decisions to boost acquisition.
+- Developed time-series forecasting models to predict user churn and revenue trends, improving customer retention strategies.
+- Collaborated with engineers to establish event tracking, for detailed analysis of user interactions & feature performance.
+
+#### Internship/Co-op
+Associate Consultant (Co-op) @ Apps Associates
+- Developed SQL queries embedded in the backend code of Data Skylight, a SaaS data warehousing integration solution, to facilitate data extraction from Oracle ERP and Salesforce into Snowflake, streamlining client reporting processes and accelerating data-driven decision-making.
+- Built interactive data visualization dashboards using React and D3.js, enabling real-time monitoring of model performance and decision-making metrics for internal stakeholders.
+- Developed detailed financial analytics reports in Excel, facilitating rapid, data-driven decision-making by providing executives with clear insights into budgeting, forecasting, & financial performance.
+
+Data Scientist (Intern) @ Sapience Technology LLC 
+- Developed predictive models in Python using Scikit-learn and Pandas to forecast customer behavior and optimize feature recommendations, leading to a 15% increase in user engagement and driving data-driven product enhancements.
+- Collected & refined requirements from stakeholders into functional design to build, implement, & deploy BI solutions
+- Conceptualized data warehousing models using ER Diagrams to model data from 10+ sources, including Shopify, Amazon Seller Central, into orders and shipping facts and dimensions for improved reporting and decision-making.
 
 ### Projects
 Predictive Credit Scoring Model for Loan Repayment Risk Assessment
