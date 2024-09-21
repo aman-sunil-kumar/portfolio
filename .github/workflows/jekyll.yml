@@ -1,0 +1,32 @@
+name: Build Jekyll site
+
+on:
+  push:
+    branches:
+      - main  # This should be your default branch, could also be `master`
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      # Clean the _site directory to avoid conflicts
+      - name: Clean _site directory
+        run: rm -rf _site
+
+      # Set up Ruby environment for Jekyll
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7  # Modify to the Ruby version your project requires
+
+      # Install Jekyll dependencies
+      - name: Install dependencies
+        run: bundle install
+
+      # Build the Jekyll site
+      - name: Build the Jekyll site
+        run: bundle exec jekyll build --incremental
