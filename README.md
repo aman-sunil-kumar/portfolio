@@ -45,6 +45,9 @@
 ### Projects
 
 **Predictive Credit Scoring Model for Loan Repayment Risk Assessment**
+
+[Github](https://github.com/aman-sunil-kumar/loan-status-prediction)
+
 - Developed a machine learning-based credit scoring model to predict loan repayment likelihood, leveraging logistic regression for classifying borrowers into "good" and "bad" credit risks, enhancing decision-making across loan approval, pricing, and refinancing processes.
 - Performed Exploratory Data Analysis (EDA), including outlier treatment through flooring and capping, and missing value imputation (central tendency and class mean substitution), ensuring data quality and robustness for model building.
 - Utilized Weight of Evidence (WOE) transformation for categorical variable substitution, and Information Value (IV) analysis to select strong predictors, improving model interpretability and predictive power.
