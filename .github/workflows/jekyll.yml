@@ -3,17 +3,18 @@ name: Build Jekyll site
 on:
   push:
     branches:
-      - main  # This should be your default branch, could also be `master`
+      - main  # Or master, depending on your default branch
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      # Update to use the latest version of checkout (v3)
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Updated from v2 to v3
 
-      # Clean the _site directory to avoid conflicts
+      # Step to clean _site directory
       - name: Clean _site directory
         run: rm -rf _site
 
@@ -21,7 +22,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7  # Modify to the Ruby version your project requires
+          ruby-version: 2.7  # Adjust if needed
 
       # Install Jekyll dependencies
       - name: Install dependencies
