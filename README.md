@@ -8,8 +8,6 @@
 
 #### Full-time
 
-<img src="/assets/images/pantone-color-of-the-year-2023.jpeg" alt="Pantone Logo" style="height: 5em; vertical-align: middle;">
-
 **Data Analyst @ Pantone (X-rite Pantone, Veralto)**
 
 *Data Engineering:*
@@ -21,8 +19,6 @@
 - Utilized natural language processing (NLP) techniques, such as topic modeling and sentiment analysis, to extract insights from customer feedback, identifying pain points and trends that informed product enhancements, contributing to a 15% improvement in user satisfaction.
 - Automated executive-level Power BI dashboards using complex DAX expressions and SQL queries, providing real-time insights into KPIs, churn, and conversion rates, leveraging star-schema data modeling for efficient reporting and decision-making.
 
-<img src="/assets/images/mysyara%20logo.png" alt="MySyara Logo" style="height: 5em; vertical-align: middle;">
-
 **Strategy Analyst @ MySyara**
 
 - Designed and deployed automated data pipelines using Python and AWS (Lambda, Step Functions) to ingest, process, and store data from multiple sources (RDBMS, APIs), ensuring high availability and data integrity in production environments.
@@ -32,15 +28,11 @@
 
 #### Internship/Co-op
 
-<img src="/assets/images/apps_associates_logo.jpeg" alt="Apps Associates Logo" style="height: 5em; vertical-align: middle;">
-
 **Associate Consultant (Co-op) @ Apps Associates**
 
 - Developed SQL queries embedded in the backend code of Data Skylight, a SaaS data warehousing integration solution, to facilitate data extraction from Oracle ERP and Salesforce into Snowflake, streamlining client reporting processes and accelerating data-driven decision-making.
 - Built interactive data visualization dashboards using React and D3.js, enabling real-time monitoring of model performance and decision-making metrics for internal stakeholders.
 - Developed detailed financial analytics reports in Excel, facilitating rapid, data-driven decision-making by providing executives with clear insights into budgeting, forecasting, and financial performance.
-
-<img src="/assets/images/sapience-tech.png" alt="Sapience Logo" style="height: 5em; vertical-align: middle;">
 
 **Data Scientist (Intern) @ Sapience Technology LLC**
 
