@@ -1,5 +1,5 @@
 title: Aman Sunil Kumar
-#logo: /assets/img/headshot_circle.png
+logo: assets/images/headshot-square.jpg
 #description: text below image
-#show_downloads: false
+show_downloads: true
 theme: jekyll-theme-minimal
