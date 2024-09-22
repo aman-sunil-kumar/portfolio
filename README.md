@@ -1,14 +1,16 @@
 # Data Scientist
 
+#### Technical Skills: Python, SQL, JavaScript, TypeScript, AWS, Apache Spark, ML/AI, Data Visualization (Power BI, Tableau, D3.js)
+
 ### Education
-- **MS** in Data Analytics Engineering
-- **B.Tech** in Mechanical Engineering
+- **MS** in Data Analytics Engineering | Northeastern University (_Apr 2023_)
+- **B.Tech** in Mechanical Engineering | Vellore Institute of Technology(_May 2020_)
 
 ### Work Experience
 
-#### Full-time
+#### Full-time Roles
 
-**Data Analyst @ Pantone (X-rite Pantone, Veralto)**
+**Data Analyst @ Pantone (X-rite Pantone, Veralto) (_July 2023 - Present_)**
 
 *Data Engineering:*
 - Engineered and optimized scalable AWS Glue ETL pipelines, automating the ingestion, transformation, and loading of terabyte-scale datasets from RDBMS and NoSQL sources into a centralized S3 data lake, reducing processing latency by 70% and enabling real-time analytics through partitioning, bucketing, and optimized data serialization formats (Parquet, ORC).
@@ -19,22 +21,22 @@
 - Utilized natural language processing (NLP) techniques, such as topic modeling and sentiment analysis, to extract insights from customer feedback, identifying pain points and trends that informed product enhancements, contributing to a 15% improvement in user satisfaction.
 - Automated executive-level Power BI dashboards using complex DAX expressions and SQL queries, providing real-time insights into KPIs, churn, and conversion rates, leveraging star-schema data modeling for efficient reporting and decision-making.
 
-**Strategy Analyst @ MySyara**
+**Strategy Analyst @ MySyara (_Dec 2019 - Dec 2020_)**
 
 - Designed and deployed automated data pipelines using Python and AWS (Lambda, Step Functions) to ingest, process, and store data from multiple sources (RDBMS, APIs), ensuring high availability and data integrity in production environments.
 - Conducted competitor analysis using Python, to make informed pricing & promotion product decisions to boost acquisition.
 - Developed time-series forecasting models to predict user churn and revenue trends, improving customer retention strategies.
 - Collaborated with engineers to establish event tracking for detailed analysis of user interactions and feature performance.
 
-#### Internship/Co-op
+#### Internship/Co-op Roles
 
-**Associate Consultant (Co-op) @ Apps Associates**
+**Associate Consultant (Co-op) @ Apps Associates (_June 2022 - Dec 2022_)**
 
 - Developed SQL queries embedded in the backend code of Data Skylight, a SaaS data warehousing integration solution, to facilitate data extraction from Oracle ERP and Salesforce into Snowflake, streamlining client reporting processes and accelerating data-driven decision-making.
 - Built interactive data visualization dashboards using React and D3.js, enabling real-time monitoring of model performance and decision-making metrics for internal stakeholders.
 - Developed detailed financial analytics reports in Excel, facilitating rapid, data-driven decision-making by providing executives with clear insights into budgeting, forecasting, and financial performance.
 
-**Data Scientist (Intern) @ Sapience Technology LLC**
+**Data Scientist (Intern) @ Sapience Technology LLC (_Dec 2018 - Nov 2019_)**
 
 - Developed predictive models in Python using Scikit-learn and Pandas to forecast customer behavior and optimize feature recommendations, leading to a 15% increase in user engagement and driving data-driven product enhancements.
 - Collected & refined requirements from stakeholders into functional design to build, implement, & deploy BI solutions.
